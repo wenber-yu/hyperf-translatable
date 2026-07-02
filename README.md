@@ -10,11 +10,11 @@
 # 安装
 
 ```bash
-composer require wilbur-yu/hyperf-translatable
+composer require wenber-yu/hyperf-translatable
 ```
 
 # 发布配置文件
 
 ```bash
-php ./bin/hyperf vendor:publish wilbur-yu/hyperf-translatable
+php ./bin/hyperf vendor:publish wenber-yu/hyperf-translatable
 ```
